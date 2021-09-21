@@ -16,5 +16,5 @@ Based on the simulation result, please answer the following questions:
 
 **Rubic**: 
 - Default, `total played bitrate == 504821`
-- Best speed, `total played bitrate == 45770``
+- Best speed, `total played bitrate == 45770`
 - Best quality, `total played bitrate == 1188230`
