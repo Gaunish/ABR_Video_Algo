@@ -4,7 +4,7 @@ Use sabre to understand how online video player works
 
 Online video is the “Killer” application in today’s network. In this lab, we are going to implement an Adaptive Bitrate (ABR) Optimization algorithm with Sabre, an ABR algorithm simulation framework.
 
-[Sabre](https://github.com/UMass-LIDS/sabre) is an ABR algorithm simulation framework developed by UMass-LIDS, it can simulate the behavior and evaluate the performance of an ABR algorithm for different video and network configurations.
+[Sabre](https://github.com/UMass-LIDS/sabre)[1] is an ABR algorithm simulation framework developed by UMass-LIDS, it can simulate the behavior and evaluate the performance of an ABR algorithm for different video and network configurations.
 
 Sabre takes the above things as the inputs: a network trace, a video manifest, and, an ABR algorithm.
 
@@ -69,3 +69,5 @@ class CustomAbr(sabre.Abr):
         return (quality, 0)					\\Return the best affordable bitrate
 
 ```
+
+[Kevin Spiteri, Ramesh Sitaraman, and Daniel Sparacio. 2018. From Theory to Practice: Improving Bitrate Adaptation in the DASH Reference Player. In MMSys '18: 9th ACM Multimedia Systems Conference, June 12-15, 2018, Amsterdam, Netherlands. https://doi.org/10.1145/3204949.3204953] [1]
