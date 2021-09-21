@@ -70,4 +70,4 @@ class CustomAbr(sabre.Abr):
 
 ```
 
-[Kevin Spiteri, Ramesh Sitaraman, and Daniel Sparacio. 2018. From Theory to Practice: Improving Bitrate Adaptation in the DASH Reference Player. In MMSys '18: 9th ACM Multimedia Systems Conference, June 12-15, 2018, Amsterdam, Netherlands. https://doi.org/10.1145/3204949.3204953] [1]
+[1]: Kevin Spiteri, Ramesh Sitaraman, and Daniel Sparacio. 2018. From Theory to Practice: Improving Bitrate Adaptation in the DASH Reference Player. In MMSys '18: 9th ACM Multimedia Systems Conference, June 12-15, 2018, Amsterdam, Netherlands. https://doi.org/10.1145/3204949.3204953
