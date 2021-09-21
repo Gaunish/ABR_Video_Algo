@@ -15,6 +15,6 @@ Based on the simulation result, please answer the following questions:
 3. Although the best quality Abr can download the best video, the user experience is not good, why is that?
 
 **Rubic**: 
-- Default, ...total played bitrate == 504821...
-- Best speed, ...total played bitrate == 45770...
-- Best quality, ...total played bitrate == 1188230...
+- Default, `total played bitrate == 504821`
+- Best speed, `total played bitrate == 45770``
+- Best quality, `total played bitrate == 1188230`
