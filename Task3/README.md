@@ -3,5 +3,10 @@ For the fluctuating available network bandwidth, the ABR can replace a previousl
 
 You need to submit **CustomReplace.py** in this task.
 
+Based on the simulation result, please answer the following questions:
+
+1. How much better total played bitrate your replacement method can achieve?
+2. Does your replacement method prolong the total play time, why?
+
 **Rubric**: `(total played time <=298) and (total played bitrate >= 484583)`
 
