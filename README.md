@@ -6,6 +6,8 @@ Online video is the “Killer” application in today’s network. In this lab, 
 
 [Sabre](https://github.com/UMass-LIDS/sabre)[1] is an ABR algorithm simulation framework developed by UMass-LIDS, it can simulate the behavior and evaluate the performance of an ABR algorithm for different video and network configurations.
 
+![Sabre](https://drive.google.com/file/d/1JDluw_d7X_0o-2ghRde81MuS5QAC-qLf/view?usp=sharing)
+
 Sabre takes the above things as the inputs: a network trace, a video manifest, and, an ABR algorithm.
 
 - The network trace is a JSON file that describes the connectivity information (RTT, bandwidth, and duration) in the simulation;
