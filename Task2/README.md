@@ -10,5 +10,10 @@ oscillation = \sum^{T-1}_{t=1} (q_{t} - q_{t-1})^2
 
 You need to submit the **CustomAbr.py** and **sabre.py**. 
 
+Based on the simulation result, please answer the following questions:
+
+1. Why the provided [CustomAbr.py](https://gitlab.oit.duke.edu/xz234/cs514ece558-lab/-/blob/main/Task2/CustomAbr.py) perform badly in $`oscillation`$?
+2. How does your CustomAbr.py solve this problem?
+
 **Rubric**: `(oscillation <=25) and (total played bitrate >= 451521)`
 
