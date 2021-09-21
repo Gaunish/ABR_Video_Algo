@@ -6,7 +6,7 @@ In this task, you are required to implement two ABRs. The first **best speed** A
 
 For the other **best quality** ABR, it will try to download the highest bitrate, therefore, the user can have the “Best Experience”.
 
-You only need to submit the CustomAbr.py to the gradescope.
+You only need to submit the **CustomAbr.py** to the gradescope.
 
 Based on the simulation result, please answer the following questions:
 
