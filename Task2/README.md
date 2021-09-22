@@ -15,5 +15,5 @@ Based on the simulation result, please answer the following questions:
 1. Why does the provided [CustomAbr.py](https://gitlab.oit.duke.edu/xz234/cs514ece558-lab/-/blob/main/Task2/CustomAbr.py) perform badly in $`oscillation`$?
 2. How does your CustomAbr.py solve this problem?
 
-**Rubric**: `(oscillation <=25) and (total played bitrate >= 451521)`
+**Rubric**: `(oscillation <=25) and (total played bitrate >= 451521) and (total play time <= 598>)`
 
