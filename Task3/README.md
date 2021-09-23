@@ -10,5 +10,5 @@ Based on the simulation result, please answer the following questions:
 1. How much better total played bitrate your replacement method can achieve?
 2. Does your replacement method prolong the total play time, why?
 
-**Rubric**: `(total played time <=298) and (total played bitrate >= 484583)`
+**Rubric**: `(total played time <=598) and (total played bitrate >= 484583)`
 
