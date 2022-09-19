@@ -1,6 +1,10 @@
 import sabre
 
 class CustomAbr(sabre.Abr):
+    def __init__(self, config):
+        super().__init__(config)
+        # Your variables here:
+
     def get_quality_delay(self, segment_index):
         manifest = self.session.manifest
         bitrates = manifest.bitrates

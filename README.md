@@ -14,7 +14,7 @@ Sabre takes the above things as the inputs: a network trace, a video manifest, a
 - The video manifest file is a JSON file that describes the available bitrate for the video, each chunks’ size and duration;
 - The ABR algorithm is the algorithm you should implement in this lab.
 
-`python3 ../src/sabre.py --abr CustomAbr.py [--replace CustomReplacement.py]`
+`python3 sabre.py --abr CustomAbr.py [--replace CustomReplacement.py --network network.json]`
 
 After being given all these things, Sabre will come up with an output that contains various user experience-related metrics.
 
@@ -48,7 +48,6 @@ oscillation: 106
 ```
 
 In this lab, we will evaluate the performance of your ABR algorithm based on total played bitrate and total play time (more play time is worse, as it means more freezes occurred). In our example, the video’s length is 597s.
-
 
 The report_download() will pass the current download information to the Abr class once each chunk is finished, the output is like:
 
